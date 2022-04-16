@@ -1,0 +1,12 @@
+header{
+
+    .header-inner{
+        .nav{
+            li{
+                &.active{
+                    @apply font-bold text-main-color;
+                }
+            }
+        }
+    }
+}

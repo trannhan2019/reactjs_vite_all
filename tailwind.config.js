@@ -8,6 +8,9 @@ module.exports = {
       height: {
         header: '128px',
       },
+      colors: {
+        'main-color': '#f54749',
+      },
     },
   },
   plugins: [],
